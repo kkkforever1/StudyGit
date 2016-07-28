@@ -6,3 +6,4 @@ git diff
 create a new branch is quick and simple.
 add merge.
 bug.
+origin/dev   learngit origin/dev
