@@ -4,3 +4,4 @@ Git has a mutableindex called stage.
 Git tracks changes of files.
 git diff
 create a new branch is quick and simple.
+add merge.
