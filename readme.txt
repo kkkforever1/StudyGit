@@ -7,8 +7,13 @@ create a new branch is quick and simple.
 add merge.
 bug.
 origin/dev   learngit origin/dev
+
 git stash
 
 http://down.51cto.com/zt/306这个数据结构的视频，前面指针讲的挺好的
 
 hehe
+
+
+add dev  develop
+
